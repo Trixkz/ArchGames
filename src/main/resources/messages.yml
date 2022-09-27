@@ -1,0 +1,78 @@
+# Number giveaway started message
+number-giveaway-started-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGIVEAWAY STARTED"
+  - "&bPlease enter a number from &31 &bto &3%number_to%"
+  - "&bThe prize is &3%message%"
+  - ""
+
+# Number giveaway stopped message
+number-giveaway-stopped-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGIVEAWAY STOPPED"
+  - "&bThe giveaway has ended, the winner is &3%winner%"
+  - "&bYour prize is &3%message%"
+  - "&bThe winning number was &3%winning_number%"
+  - ""
+
+# giveaway cancelled message
+giveaway-cancelled-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGIVEAWAY CANCELLED"
+  - "&bThe giveaway has been cancelled"
+  - ""
+
+# Word giveaway started message
+word-giveaway-started-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGIVEAWAY STARTED"
+  - "&bPlease enter the following word to entered into the giveaway: &3%word%"
+  - "&bThe prize is &3%message%"
+  - ""
+
+# Word giveaway stopped message
+word-giveaway-stopped-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGIVEAWAY STOPPED"
+  - "&bThe giveaway has ended, the winner is &3%winner%"
+  - "&bYour prize is &3%message%"
+  - ""
+
+# Scramble game started message
+scramble-game-started-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGAME STARTED"
+  - "&bPlease unscramble the following word: &3%scrambled_word%"
+  - "&bThe prize is &3%message%"
+  - ""
+
+# Scramble game stopped message
+scramble-game-stopped-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGAME STOPPED"
+  - "&bThe game has ended, the winner is &3%winner%"
+  - "&bYour prize is &3%message%"
+  - ""
+
+# Game cancelled message
+game-cancelled-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGAME CANCELLED"
+  - "&bThe game has been cancelled"
+  - ""
+
+# Defuse game started message
+defuse-game-started-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGAME STARTED"
+  - "&bPlease type &3/enter &bto enter into the game"
+  - "&bThe prize is &3%message%"
+  - ""
+
+# Defuse game stopped message
+defuse-game-stopped-message:
+  - ""
+  - "&3&lGames &7&m|&r &b&lGAME STOPPED"
+  - "&bThe game has ended, the winner is &3%winner%"
+  - "&bYour prize is &3%message%"
+  - ""

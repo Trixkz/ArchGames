@@ -1,0 +1,9 @@
+name: ArchGames
+author: Trixkz
+version: 1.0
+main: club.archdev.games.ArchGames
+
+commands:
+  games:
+  giveaway:
+  enter:

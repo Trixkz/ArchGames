@@ -1,0 +1,8 @@
+# Debug mode
+# Only set this value to "true" if Trixkz (LoganM) tells you to do it
+debug: false
+
+# Admin permission node
+admin-permission-node: "archgames.admin"
+# No permission message
+no-permission-message: "&cNo permission"
